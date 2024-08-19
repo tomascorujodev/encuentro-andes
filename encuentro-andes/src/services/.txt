@@ -1,0 +1,1 @@
+Carpeta para las request, respetando las rutas del backend

@@ -1,0 +1,6 @@
+Aca van las rutas.
+
+/Home
+
+/Shop
+
